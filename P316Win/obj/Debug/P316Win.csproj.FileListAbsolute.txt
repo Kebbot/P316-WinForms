@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\P316Win\P316Win\bin\Debug\P316Win.exe.config
+C:\Users\Admin\source\repos\P316Win\P316Win\bin\Debug\P316Win.exe
+C:\Users\Admin\source\repos\P316Win\P316Win\bin\Debug\P316Win.pdb
+C:\Users\Admin\source\repos\P316Win\P316Win\obj\Debug\P316Win.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\P316Win\P316Win\obj\Debug\P316Win.Form1.resources
+C:\Users\Admin\source\repos\P316Win\P316Win\obj\Debug\P316Win.Properties.Resources.resources
+C:\Users\Admin\source\repos\P316Win\P316Win\obj\Debug\P316Win.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\P316Win\P316Win\obj\Debug\P316Win.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\P316Win\P316Win\obj\Debug\P316Win.exe
+C:\Users\Admin\source\repos\P316Win\P316Win\obj\Debug\P316Win.pdb
